@@ -1,2 +1,2 @@
-# STM32-FDCAN-CMSIS2-Example
-STM32G4 example project using FDCAN with CMSIS OS2.
+# Description
+A simple STM32G4 example of FDCAN used with CMSIS OS2.
