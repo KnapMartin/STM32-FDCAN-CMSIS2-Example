@@ -1,0 +1,13 @@
+../Core/Src/main.cpp:91:16:int _write(int, char*, int)	1
+../Core/Src/main.cpp:110:5:int main()	3
+../Core/Src/main.cpp:220:6:void SystemClock_Config()	3
+../Core/Src/main.cpp:269:13:void MX_FDCAN1_Init()	2
+../Core/Src/main.cpp:312:13:void MX_USART2_UART_Init()	5
+../Core/Src/main.cpp:362:13:void MX_GPIO_Init()	1
+../Core/Src/main.cpp:401:6:void HAL_FDCAN_TxBufferCompleteCallback(FDCAN_HandleTypeDef*, uint32_t)	2
+../Core/Src/main.cpp:411:6:void HAL_FDCAN_RxFifo0Callback(FDCAN_HandleTypeDef*, uint32_t)	3
+../Core/Src/main.cpp:425:6:void can_send()	1
+../Core/Src/main.cpp:458:6:void startTask0(void*)	1
+../Core/Src/main.cpp:480:6:void startTask1(void*)	1
+../Core/Src/main.cpp:501:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	2
+../Core/Src/main.cpp:519:6:void Error_Handler()	1
